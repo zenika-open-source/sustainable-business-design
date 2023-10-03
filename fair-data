@@ -1,0 +1,24 @@
+<card>fair-data
+  <title>
+    L'accessibilité des données avec FAIR</title>
+  <category>
+    Faire converger les pratiques</category>
+  <objective>
+    Construire, stocker, présenter ou publier des données</objective>
+  <intro>
+    Le premier coût environnemental de la donnée est lié à son acquisition. Cette acquisition ou cette création de donnée a donc dès l’origine un coût environnemental important pour lequel une attention doit être portée notamment sur la conservation. Pour cela l'application des principes FAIR (data Findable, Accessible, Interopeable, Reusable) permet de mettre en place les bases d’une bonne gestion des données.</intro>
+  <content>
+    Dès l’instant où on aura validé que la donnée produite ou acquise mérite d’être conservée (la première bonne démarche environnementale étant celle de ne pas produire ni conserver de données inutiles), il va falloir tout au long de son cycle de vie se poser les bonnes questions pour minimiser les impacts environnementaux voire sociétaux
+    Comment agir pour les données ? 
+      Ne pas produire de donnée inutiles (sobriété).
+      Appliquer à chacune des étapes de son cycle de vie des principes FAIR :
+        En phase d’usage, minimiser la distance à parcourir sur les réseaux entre l’usage de la donnée et son stockage.
+        Utiliser les ressources de stockage/archivage/sauvegarde les plus éco-responsables possibles et adaptées aux volumes concernés.
+        Appliquer les principes FAIR (formats standards ouverts et interopérables, données accessibles aux autres, données identifiées avec des métadonnées utilisables et normalisées).
+      Utiliser les réseaux de transports les moins polluants. Les voici par ordre d'impact croissant : le filaire, le wifi et les réseaux mobiles (3G/4G/5G...).
+      Se former et s’informer autour des bonnes pratiques de la gestion des données et intégrer les principes de sobriété sur les ressources utilisées pour manipuler, exploiter et stocker ces données en fonction du domaine d’utilisation.
+      Limiter les redondances, se montrer critique sur les données à conserver, connaître et appliquer les bons principes de sauvegarde et d’archivage sur les données froides et chaudes.
+  </content>
+  <tips> 
+  </tips>
+</card>
