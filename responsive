@@ -1,0 +1,20 @@
+<card>responsive
+  <title>
+    Responsive</title>
+  <category>
+    Rendre accessible à tous</category>
+  <objective>
+    Proposer le bon contenu à différentes plateformes et optimiser les performances d'un site</objective>
+  <intro>
+    Adapter son interface selon la dimension de l’écran sur lequel il est consulté permet de rendre disponibles les contenus pour tout type de terminal, pour des ordinateurs de bureau comme pour des smartphones.</intro>
+  <content>
+    Un projet de design responsive et responsable doit prendre en compte les facteurs suivants à parts égales : 
+    Utilisabilité : la façon dont l’interface utilisateur d’un site web est présentée à l’utilisateur, et dont elle répond à différentes interactions et conditions de navigation. 
+    Accès : la possibilité pour les utilisateurs de tous les appareils, navigateurs et technologies d’accessibilité d’accéder aux fonctionnalités et au contenu de votre site et de les comprendre. 
+    Durabilité : la capacité pour les technologies d’un site web ou d’une application de fonctionner sur les appareils qui existent aujourd’hui et de continuer à être utilisables et accessibles par tous les utilisateurs, appareils et navigateurs à l’avenir.
+    Performances : la vitesse à laquelle les fonctionnalités et le contenu d’un site sont transmis à l’utilisateur et l’efficacité avec laquelle ils fonctionnent au sein de l’interface utilisateur.
+  </content>
+  <tips> 
+    Concevoir d’abord pour petit écran permet d'aller à l'essentiel dans un premier temps et permet de s’assurer que le service fonctionnera correctement sur les appareils mobiles.
+  </tips>
+</card>
