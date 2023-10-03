@@ -1,0 +1,27 @@
+<card>technical-impact
+  <title>
+    Et l'impact technique ?</title>
+  <category>
+    Comprendre le numérique responsable</category>
+  <objective>
+    Faire converger l'équipe de réalisation vers une pratique commune</objective>
+  <intro>
+    Cette carte se concentre sur la partie conception fonctionnelle mais il faut veiller à échanger régulièrement avec l'équipe de réalisation qui va développer le produit selon ses challenges d'écoconception dont voici certains exemples.</intro>
+  <content>
+    L'écoconception technique permet une convergence autour des pratiques de sécurité, de référencement SEO, d'accessibilité ou encore de performance. Ci-dessous une liste non exhaustive des sujets abordés par les membres techniques de l'équipe.
+    Développement
+      Rester compatible avec les matériels et logiciels les plus contraignants (ex : rétrocompatibilité, équipements spécifique comme l'IoT ou l'embarqué, réseaux à faible débit).
+      Construire des sites et applications légers et rapides.
+      Choisir une d’architecture (JAMStack, SPA, asynchrone,…) et connaître ses limites (exemple micro services : appels serveur fréquents, consommation CPU importante, overhead des conteneurs).
+      Limiter les échanges réseaux (client/serveurs).
+      Connaître la puissance de calcul nécessaire pour limiter l'usure des équipements.
+      Choisir des outils performants et les garder à jour.
+      Consommer moins de ressources serveur et réseau pour ne pas avoir besoin de déployer de nouvelles infrastructures.
+    Hébergement
+      Laisser la place aux autres services sur des infrastructures mutualisées.
+      Faire attention à l'effet rebond (dimensionnement dynamique, fermer les VM quand elles ne sont pas utilisées).
+      Mettre en place des outils de monitoring (CPU consommé, échanges réseau, etc.).
+  </content>
+  <tips> 
+  </tips>
+</card>
