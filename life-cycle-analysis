@@ -1,0 +1,21 @@
+<card>life-cycle-analysis
+  <title>
+    Analyse du Cycle de Vie</title>
+  <category>
+    Comprendre le numérique responsable</category>
+  <objective>
+    Un outil d'analyse global</objective>
+  <intro>
+    L’analyse du cycle de vie (ACV) est l’outil le plus abouti pour l’évaluation globale et multi-critères des impacts environnementaux d'un objet ou d'un service. 
+    Cette méthode normalisée permet de mesurer les effets quantifiables sur l’environnement tout au long de la vie du produit. Elle est à la base de nombreux outils de comparaison.</intro>
+  <content>
+    Le cadre d'une ACV comprend l'ensemble des flux à prendre en compte dans une analyse dite du berceau à la tombe (« from cradle to cradle » en anglais) ce qui englobe l'extraction des matières premières (énergétiques ou non) nécessaires à la fabrication et à l’assemblage, la distribution, l'utilisation, la collecte et l'élimination ainsi que toutes les phases de transport.
+    L'analyse porte sur les flux entrants, c'est-à-dire tout ce qui entre dans la fabrication du produit, et sortants, ce qui sort en matière de pollution :
+      parmi les flux entrants, se trouvent entre autres les matières et l’énergie : ressources en minerais, eau, pétrole, gaz ;
+      les flux sortants peuvent correspondre aux déchets, émissions gazeuses, liquides rejetés, etc. 
+    Une ACV est réalisée sur le périmètre d'une Unité Fonctionnelle (voire carte correspondante). Elle permet de fournir notamment un diagnostic c'est à dire une vision non biaisée des impacts et à pour objectif l'amélioration de la conception grâce à une stratégie de réduction d'impacts.
+    La réalisation d’une ACV sur un produit physique, dont l’ensemble de la phase de production est maîtrisée, est un exercice compliqué. Dans le cas d’un logiciel, la tâche est particulièrement complexe parce qu'il n'a pas d'existence physique. Nous nous basons donc sur des extrapolations de données pour connaître le matériel qui permet de faire fonctionner le service numérique, des ACV simplifiées. Cela permet tout de même d'avoir une idée de l'impact environnemental et de voir si les améliorations de conception permettent de diminuer celui-ci.
+  </content>
+  <tips> 
+  </tips>
+</card>
