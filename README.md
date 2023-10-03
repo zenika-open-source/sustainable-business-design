@@ -6,4 +6,4 @@ Card
   Objective
   Intro
   Content
-  Typs
+  Tips
