@@ -1,0 +1,23 @@
+<card>accessibility-next-steps
+  <title>
+    Accessibilité, aller plus loin avec les référentiels</title>
+  <category>
+    Rendre accessible à tous</category>
+  <objective>
+    Permettre à tout le monde, sans discrimination, d’avoir accès aux services numériques</objective>
+  <intro>
+    Il existe plusieurs normes d’accessibilité à vérifier en amont pour contrôler la conformité d’un service numérique et ainsi permettre à tous les utilisateurs d’accéder équitablement au service. En France, les organismes publics et certaines entreprises privées ont une obligation légal de mise en conformité avec le RGAA et doivent publier une déclaration d'accessibilité sous peine de sanctions.</intro>
+  <content>
+    Pour s'assurer de la conformité d’un service numérique, les concepteurs disposent de plusieurs outils pour intégrer les bonnes pratiques lors de la phase de conception puis de développement.
+    Pourquoi le faire ? 
+      Améliorer le référencement naturel. Un site accessible aux personnes en situation de handicap, est également mieux positionné dans les résultats des moteurs de recherche.
+      Lutter contre les discriminations et multiplier ses utilisateurs. 
+      Assurer une meilleure expérience utilisateur (UX) pour tous.
+    Référentiels et guides essentiels 
+      Le Référentiel Général d'Amélioration de l'Accessibilité (RGAA) propose un cadre opérationnel de vérification de la conformité aux exigences légales d'accessibilité via 106 critères de contrôle accompagné de tests et méthodes techniques.
+      Les Guides Apple (https://developer.apple.com/accessibility) et Android (https://support.google.com/accessibility/android) définissent les bonnes pratiques à suivre et les outils concret à utiliser pour créer des applications mobiles natives accessibles.
+  </content>
+  <tips> 
+    Même si ces éléments sont principalement à destination de l’équipe de réalisation, il est important d’intégrer les contraintes de design et techniques dans les décisions métiers.
+  </tips>
+</card>
