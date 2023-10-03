@@ -1,0 +1,22 @@
+<card>kano
+  <title>
+    Modèle de Kano</title>
+  <category>
+    Améliorer les fonctionnalités</category>
+  <objective>
+    Mesurer la pertinence d'une fonctionnalité dans le cadre d’un développement responsable</objective>
+  <intro>
+    Avec le modèle de Kano, le focus est double : 
+      Identifier les fonctionnalités à ne pas développer.
+      Mettre en avant et faciliter l’utilisation des fonctionnalités attractives et indispensables.</intro>
+  <content>
+    Il s’agit d’un questionnaire standardisé qui permet de mesurer l’opinion des utilisateurs pour chaque fonctionnalité. Les participants doivent répondre à deux questions pour chaque caractéristique du produit, dont l'une est « fonctionnelle » (formulée de manière positive) et l'autre « dysfonctionnelle » (formulée de manière négative). 
+    Les questions sont semblables aux suivantes : 
+      Fonctionnelle : Que pensez-vous de la présence de la fonctionnalité A ?
+      Dysfonctionnelle : Que penseriez-vous s’il n’y avait pas la fonctionnalité A ?
+    Une matrice de corrélation entre les réponses fonctionnelles et dysfonctionnelles pour chaque élément permet de les classer en 5 catégories : attractive, indispensable, indifférente et rejetée ; auxquelles est souvent ajoutée la catégorie douteuse c’est-à-dire dont les attentes utilisateurs sont fortement contradictoires. 
+  </content>
+  <tips> 
+    Ce modèle est plus facile d’utilisation pour un service déjà existant et nécessitant une évolution ou une refonte. Cependant il peut être appliqué à tout service numérique.
+  </tips>
+</card>
