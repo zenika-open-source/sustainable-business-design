@@ -1,0 +1,24 @@
+<card>greenIT-analysis
+  <title>
+    Green IT Analysis</title>
+  <category>
+    Améliorer les fonctionnalités</category>
+  <objective>
+    Quantifier les impacts environnementaux</objective>
+  <intro>
+    L’extension Green IT Analysis permet en quelques clics d'avoir une idée de l'empreinte environnementale d'une page web et fournit une liste de bonnes pratiques à appliquer. 
+    La note EcoIndex peut être un premier indicateur simple à mettre en place pour suivre les améliorations du produit ou de réaliser un comparatif. </intro>
+  <content>
+    GreenIT-Analysis est une extension pour navigateur qui vous permet de quantifier les impacts environnementaux d'un parcours utilisateur complet, en se basant sur des ACV. Cela permet de voir l'évolution rapidement d'amélioration visant l'écoconception.
+    L’analyse se base sur une ACV réalisée pour une application web et comprend deux critères : les émissions de gaz à effets de serres en grammes équivalent CO2 et la consommation d’eau en centilitres. 
+    Une note entre A et G est fournie, permettant de rapidement comprendre la performance environnementale de la page. Cette note est calculée à partir de trois critères : 
+      la complexité de la page, représentée par son nombre de composants (nombre d'éléments du DOM), 
+      le poids de la page 
+      le nombre de requêtes. 
+    L’application teste un sous-ensemble des 115 bonnes pratiques d’écoconception web et fournit un rapport, ce qui permet d’identifier rapidement des pistes d’améliorations. 
+    Toute l’analyse se fait en local, un historique permet de sauvegarder les notes et impacts page par page pour analyser un parcours client.
+  </content>
+  <tips> 
+    Vous pouvez quantifier les impacts environnementaux d'un parcours utilisateur en lançant et en enregistrant des analyses successives après chaque page visitée. 
+  </tips>
+</card>
