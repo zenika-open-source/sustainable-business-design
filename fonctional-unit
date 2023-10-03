@@ -1,0 +1,24 @@
+<card>
+  <title>
+    Unité fonctionnelle</title>
+  <category>
+    Comprendre le numérique responsable</category>
+  <objective>
+    Exprimer les impacts sur un élément représentatif pendant une durée de vie prédéterminée</objective>
+  <intro>
+    Les mesures d’impacts, tel que les Analyses du Cycle de Vie (voire Carte), se font sur une Unité Fonctionnelle. C'est une unité de mesure qui permet d’effectuer les comparaisons finales. Concrètement, elle décrit le service rendu en se concentrant sur les fonctions principales du produit, pour permettre notamment la comparaison entre différentes solutions techniques.</intro>
+  <content>
+    Comment déterminer une unité fonctionnelle ?
+    Une unité fonctionnelle (UF) serait comparable à une User Story ou Feature d’un produit, c’est-à-dire la réponse à un besoin. Il est important de se concentrer sur le service rendu et de sortir du moyen de réalisation. Ce qui fait qu'une unité fonctionnelle est formulée autour de questions simples : 
+      Quoi ? Un verbe qui représente la fonction assurée ou le service rendu. 
+      Combien / Comment ? Un critère qui quantifie/qualifie la fonction ou le service. 
+      Combien de… ? Une durée/fréquence de fonctionnement s'il ne s’agit pas d’un acte unitaire. 
+    Prenons des exemples simples d’unité fonctionnelle : 
+      Se déplacer d’un point A à un point B distant de 5 km
+      Envoyer un email 
+    Une fois l’unité fonctionnelle définie, il est possible d’identifier des scénarios qui correspondent à des façons différentes de la réaliser. Dans le cas de l’envoi d’un email, on peut faire varier le nombre de destinataires, la taille du mail, le pourcentage de lecture, etc. 
+    Ces différents scénarios peuvent mettre en évidence des choix d’implémentations ou d’outils différents. Ils peuvent également permettre un comparatif entre deux fonctionnements existants dans une entreprise et lui permettre ainsi de changer ses processus internes pour en diminuer l’impact environnemental.
+  </content>
+  <tips> 
+  </tips>
+</card>
