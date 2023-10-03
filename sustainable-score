@@ -1,0 +1,17 @@
+<card>sustainable-score
+  <title>
+    Créer un score responsable</title>
+  <category>
+    Améliorer les fonctionnalités</category>
+  <objective>
+    Se positionner dans un projet durable</objective>
+  <intro>
+    Le numérique responsable est une solution à la réalisation d'un développement (plus) durable, c'est-à-dire avec un équilibre des axes personnes/planète/prospérité. Il est donc nécessaire de savoir identifier si le produit agit vers cet équilibre ou fait pencher la balance d'un côté ou d'un autre.</intro>
+  <content>
+    Le score responsable est un outil de posture du produit par rapport aux objectifs du développement durable, il complète les métriques "classiques" en identifiant l'empreinte du produit sur les 3 piliers du développement durable.
+    Spécifique ou inspiré de scores existants (comme ci-dessous), le score est en lien avec les objectifs ou challenges responsables identifiés lors d'un Product canvas (voire carte correspondante), qui peuvent donner les grands axes de notation. Pour chacun de ces axes, le but est d'identifier le niveau de réalisation actuel et ainsi de définir les actions à mettre en place pour respecter les attentes responsables identifiées pour le produit. 
+    On peut prendre l'exemple du "Score d'empreintes du produit", notation responsable pour évaluer un produit issu du livre blanc de Fabrice des Mazery intitulé Responsables, réduire l'empreinte de nos produits numériques sur les individus, l'environnement et l'économie.
+  </content>
+  <tips> 
+  </tips>
+</card>
