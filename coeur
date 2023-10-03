@@ -1,0 +1,29 @@
+<card>coeur
+  <title>
+    Questions C.O.E.U.R.</title>
+  <category>
+    Améliorer les fonctionnalités</category>
+  <objective>
+    Se concentrer sur un aspect précis de simplification de l’interface</objective>
+  <intro>
+    Ce n'est pas tâche facile de créer une interface simple, il n'est pas rare de créer de la complexité s'en rendre compte. Les questions C.O.E.U.R. vont aider l'équipe à réduire la complexité de certains éléments. </intro>
+  <content>
+    La méthode C.O.E.U.R. imaginée et réalisée par Rémi Guyot, se présente sous la forme d’un jeu de cartes. Elle a pour objectif de diminuer la complexité. 
+    Cet atelier d'idéation va mener l'équipe à repenser une interface trop complexe ou chargée, en travaillant individuellement ou par groupe sur un aspect précis de simplification de l’interface : 
+      C pour Cacher : 
+         Mettre hors de vue un élément d’interface non indispensable.
+      O pour Ordonner : 
+        Apporter de la hiérarchie et de la structure à l’interface en organisant   
+        différemment certains composants.
+      E pour Éliminer : 
+         Supprimer tout bonnement un composant de l’écran.
+      U pour Uniformiser : 
+         Standardiser, harmoniser des éléments entre eux.
+      R pour Réduire : 
+         Diminuer l’importance d’un élément de l’interface.
+    Les interfaces les plus simples sont aussi souvent les plus complexes à réaliser. Combattre la complexité est plus facile en se concentrant sur des tâches uniques.
+  </content>
+  <tips> 
+    Cette méthode peut être utilisée pour simplifier les contenus ainsi que les fonctionnalités.
+  </tips>
+</card>
