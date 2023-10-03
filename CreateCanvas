@@ -1,18 +1,27 @@
-<Title>Créer son canvas</title>
-<category>Faire convergencer les pratiques
-<Objective>S'approprier une stratégie responsable
-<Intro>Les sujets d'impacts environnementaux et sociétaux sont souvent mis de côté lors d'atelier Product Canvas. Leur introduction dès cette étape permet de simplifier leur intégration dans le cycle de vie complet du produit.
-<content>Pour ne pas oublier les sujets portés par le numérique responsable, il est utile de les intégrer dans le canvas choisi. Il n'y a pas une solution, ou un canvas par défaut, plutôt des questions et thématiques à intégrer.
-Pour ce faire, il est nécessaire d'identifier les notions responsables qui sont les plus importantes pour le produit et de faire évoluer le canvas  en créant des nouveaux segments ou bien de nouvelles questions dans les segments existants. Par exemple :
-section risque : intégrer des notions d'impact et de vulnérabilité liées aux dérèglements climatiques (difficulté d'approvisionnement, hausse des tarifs ou raréfaction de l'énergie, etc.).
-section impact : consulter les lois environnementales et sociales existantes ou en cours de rédaction avec impact sur le produit/service.
-section solutions : adresser les options lowtech voire non numériques.
-section des parties prenantes : réfléchir aux sujets d'accessibilité (handicap et accès au numérique).
-section utilisateur : questionner une possible addiction.
-section solution : identifier si le produit répond à des objectifs de développement durables de l'ONU.
-section KPI : voir carte métriques.
-<tips>Exemples de canvas responsables : 
-Digital Product Ethics et Sustainable Business Model de Threebility
-Sustainable Business Model de Case
-Circular design de Alain Daou
-
+<card>CreateCanvas
+  <title>
+    Créer son canvas</title>
+  <category>
+    Faire convergencer les pratiques</category>
+  <objective>
+    S'approprier une stratégie responsable</objective>
+  <intro>
+    Les sujets d'impacts environnementaux et sociétaux sont souvent mis de côté lors d'atelier Product Canvas. Leur introduction dès cette étape permet de simplifier leur intégration dans le cycle de vie complet du produit.</intro>
+  <content>
+    Pour ne pas oublier les sujets portés par le numérique responsable, il est utile de les intégrer dans le canvas choisi. Il n'y a pas une solution, ou un canvas par défaut, plutôt des questions et thématiques à intégrer.
+    Pour ce faire, il est nécessaire d'identifier les notions responsables qui sont les plus importantes pour le produit et de faire évoluer le canvas  en créant des nouveaux segments ou bien de nouvelles questions dans les segments existants. Par exemple :
+      section risque : intégrer des notions d'impact et de vulnérabilité liées aux dérèglements climatiques (difficulté d'approvisionnement, hausse des tarifs ou raréfaction de l'énergie, etc.).
+      section impact : consulter les lois environnementales et sociales existantes ou en cours de rédaction avec impact sur le produit/service.
+      section solutions : adresser les options lowtech voire non numériques.
+      section des parties prenantes : réfléchir aux sujets d'accessibilité (handicap et accès au numérique).
+      section utilisateur : questionner une possible addiction.
+      section solution : identifier si le produit répond à des objectifs de développement durables de l'ONU.
+      section KPI : voir carte métriques.
+  <content>
+  <tips> 
+    Exemples de canvas responsables : 
+      Digital Product Ethics et Sustainable Business Model de Threebility
+      Sustainable Business Model de Case
+      Circular design de Alain Daou
+  <tips>
+</card>
