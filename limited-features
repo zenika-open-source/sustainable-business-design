@@ -1,0 +1,27 @@
+<card>limited-features
+  <title>
+    Limiter le nombre d'interactions</title>
+  <category>
+    Améliorer les fonctionnalités</category>
+  <objective>
+    Fluidifier une interface et permettre à un utilisateur d’atteindre plus rapidement son objectif</objective>
+  <intro>
+    Suivre le nombre d'actions pour chaque scénario conçu avec une unité fonctionnelle et évaluer les impacts et métriques de chacun afin de proposer une expérience fluide et sobre.</intro>
+  <content>
+    Les scénarios sont matérialisés selon les éléments à analyser. Cela peut être un prototype pour évaluer un parcours utilisateur ou un élément précis développé pour avoir un contexte réel.
+    Vous avez déterminé vos scénarios d'utilisation avec l'Unité fonctionnelle (voir carte correspondante) ou avec le User Flow. Votre objectif est alors d'évaluer l'expérience utilisateur afin de la rendre fluide et réduite en impacts générés par ce parcours.
+    Pour cela, l'équipe de conception aura définit des critères pour effectuer des tests afin de choisir le scénario le moins impactant.
+    Des exemples de critères pour effectuer les tests : 
+      nombre d'écrans nécessaires à l’utilisateur pour exécuter une tâche ;
+      nombre de clics ;
+      nombre de champs ;
+      temps de chargement d'une page ;
+      temps nécessaire à l’utilisateur pour finaliser une tâche ;
+      pourcentage de tâches correctement exécutées par les utilisateurs ;
+      combien d’erreurs ont été commises par l’utilisateur ;
+      nombre de requêtes...
+  </content>
+  <tips> 
+     Suivre ces données permet aussi d'améliorer continuellement le produit ou service sur lequel il faut se concentrer.
+  </tips>
+</card>
