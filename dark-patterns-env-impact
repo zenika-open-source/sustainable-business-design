@@ -1,0 +1,20 @@
+<card>dark-patterns-env-impact
+  <title>
+    Dark patterns, l'impact environnemental</title>
+  <category>
+    Faire converger les pratiques</category>
+  <objective>
+    Limiter la création et l'échange d'informations</objective>
+  <intro>
+    De façon générale ces mauvaises pratiques entraînent :
+      la génération excessive de données lorsque les utilisateurs acceptent les cookies et leur stockage, 
+      un échange important d’informations sur le réseau quand ils naviguent sur des pages et des pages pour réaliser un parcours, 
+      l’augmentation de besoins de stockage notamment lors de la génération de campagnes d’e-mailing.</intro>
+  <content>
+    Dans le cas du pattern nommé “Roach Motel” (dénomination d’un attrape insecte dont il est très difficile de sortir), l’utilisateur est amené à faire de nombreuses actions pour arriver à son objectif, ici se désabonner. 
+    Ces actions entraînent donc de nombreux échanges de données pour charger les différentes pages impactant la consommation d’énergie de l’ensemble des équipements du service numériques (téléphone/ordinateur, réseaux, serveurs). 
+    Les actions étant souvent surveillées par des cookies, des données du parcours sont créées. Et dans certains cas, l’étape d’arrivée peut même être la réalisation d’une action en dehors du service numérique, comme l’envoi d’un recommandé (avec son impact environnemental dédié). 
+  </content>
+  <tips> 
+  </tips>
+</card>
