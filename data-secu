@@ -1,0 +1,19 @@
+<card>data-secu
+  <title>
+    Sécurité et gestion des données</title>
+  <category>
+    Faire converger les pratiques</category>
+  <objective>
+    Faire converger les pratiques pour consolider le service</objective>
+  <intro>
+    Réduire l'impact environnemental d'un service, c'est notamment éviter le renouvellement du matériel, mais cela peut atteindre la sécurité des équipements dûe à l'arrêt de la maintenance des OS.</intro>
+  <content>
+    Pour limiter ces divergences, il est nécessaire d'intégrer des pratiques communes dès la conception. Il s'agit d'être dans l'anticipation : la cybersécurité est l'anticipation des menaces ; l'écoconception est l'anticipation des impacts sociétaux et environnementaux ; la gestion des données est l'anticipation du volume et de l'obsolescence des informations.
+    Penser minimisation. 
+    Du point de vue de la protection des données, cela équivaut au principe de moindre-donnée. Ce principe ce retrouve en écoconception où les fonctionnalités sont ajustées aux besoin, les données collectées étant donc réduite au strict nécessaire via des formulaire adapté. Ce principe converge avec les demandes liées à la RGPD en matière de nécessité de collecte des données (voir la fiche correspondante). Ainsi, on utilisera moins de stockage, on réduira les transfert de donnée, etc.
+    Au niveau de la cybersécurité, c'est le principe du moindre-privilège, c’est-à-dire la limitation des droits au strict minimum sur les postes clients, du nombre de logiciels installés, ce qui, en plus de diminuer la surface d’attaque, est susceptible de réduire les impacts liés à l’usage du poste de travail ainsi que l’obsolescence matérielle prématurée due aux logiciels installés ou encore à un espace disque saturé dû à ces mêmes logiciels.
+    Pour l'écoconception, c'est la moindre fonctionnalité (voire carte Kano).
+  </content>
+  <tips> 
+  </tips>
+</card>
