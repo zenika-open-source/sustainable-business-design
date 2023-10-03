@@ -1,0 +1,25 @@
+<card>impact-mapping
+  <title>
+    L'impact mapping responsable</title>
+  <category>
+    Améliorer les fonctionnalités</category>
+  <objective>
+    Intégrer une stratégie responsable au plus tôt</objective>
+  <intro>
+    Les entreprises ont de plus en plus d'objectifs de réduction de leur impact environnemental (notamment avec leur politique RSE), mais il n'est pas simple de les décliner au niveau projet. 
+    L'impact mapping permet de définir dès le début du projet l'objectif responsable du produit et de confronter les fonctionnalités à cet objectif dès leur émergence. </intro>
+  <content>
+    L’impact mapping, créé par Gojko Adzic, est une méthode de planification stratégique sous forme de mindmap permettant de décider des fonctionnalités à intégrer dans un produit.
+      Identification de l'objectif visé.
+      Positionnement des fonctionnalités identifiées par leur impact direct sur la réalisation de cet objectif.
+    L’impact Mapping peut être utilisé dans un contexte d’écoconception de deux façons :
+      lors de la phase d'idéation ou de définition du besoin, avec pour objectif que le produit ait une empreinte écologique réduite, puis en essayant pour chaque fonctionnalité de définir : 
+        pour qui, comment et avec quoi cette fonctionnalité va pouvoir permettre d’atteindre l’objectif durable ?
+      lors d’un travail de détail d’une fonctionnalité, en ajoutant pour chaque acteur / utilisateur un impact responsable à chaque fois : 
+        comment l’utilisation de cette fonctionnalité par l’utilisateur réduit son empreinte écologique ? 
+        comment l’utilisation de cette fonctionnalité par l’utilisateur réduit l’empreinte écologique du service numérique ?
+      A travers ces questions, différentes solutions sont identifiées, certaines arriveront jusqu'au stade de user stories et seront priorisées dans le backlog. D'autres peuvent un impact plus grand au niveau du services voire des politiques de développement globales.
+  </content>
+  <tips> 
+  </tips>
+</card>
