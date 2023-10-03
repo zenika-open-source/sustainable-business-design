@@ -1,0 +1,27 @@
+<card>kpi
+  <title>
+    Définir des métriques </title>
+  <category>
+    Améliorer les fonctionnalités</category>
+  <objective>
+    Suivre l'impacts des actions réalisées</objective>
+  <intro>
+    Les ultimes métriques de l'impact environnemental sont celles d'un ACV, mais le processus est long, complexe. Alors comment faire ? Et que prendre en compte pour la partie sociale ? 
+    Définir des indicateurs permet de voir si les actions vont dans le bon sens dans la limitation de l'impact environnemental et dans l'amélioration de l'impact social. </intro>
+  <content>
+    Hormis la quantité de CO2eq produit par unité fonctionnelle qui commence à prendre sa place dans les indicateurs responsables d'un service numérique, il n'y a pas d'indicateur partagé par tous. Effectivement, chaque service est différent, ainsi chaque équipe a des objectifs d'amélioration variables. 
+    L'objectif est de superviser la mise en place de pratiques identifiées (comme celles partagées dans ces cartes). 
+    Voici quelques pistes d'indicateurs "faciles" à suivre : 
+      la rétrocompatibilité en identifiant les plus anciens OS, navigateurs ou appareils supportés.
+      les analytiques notamment le temps d'utilisation par unité fonctionnelle principale.
+      la performance dans différents contextes d'utilisation (matériel, type de réseaux, etc.) avec les core vitals ou le speed index.
+      la satisfaction utilisateur grâce à des enquêtes, des tests ou grâce à la méthode Kano.
+      les données et l'évolution de leur volume, accès, utilisation.
+      la facture de l'hébergement du service.
+      conformité de l'accessibilité par rapport à RGAA.
+    Il existe des indicateurs plus techniques comme le nombre de composants, de CPU consommé, d'échanges réseau, le temps de réponse d'API, etc.
+  </content>
+  <tips> 
+    Il est important de se limiter à un certain nombre d'indicateurs sinon ils deviennent trop complexes à exploiter et tombent souvent dans l'oubli.
+  </tips>
+</card>
