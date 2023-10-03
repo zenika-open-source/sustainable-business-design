@@ -1,0 +1,27 @@
+<card>basis-accessibility
+  <title>
+    Accessibilité, les tests de bases
+</title>
+  <category>
+    Rendre accessible à tous</category>
+  <objective>
+    Permettre à tout le monde, sans discrimination, d’avoir accès aux services numériques</objective>
+  <intro>
+    Le numérique responsable a pour objectif d’améliorer l'empreinte écologique et sociale des technologies numériques. L’accessibilité numérique permet à tout le monde, sans discrimination, d’avoir accès aux services numériques, indépendamment de la situation de l’utilisateur. </intro>
+  <content>
+    D’après l’enquête “Handicap, incapacités, dépendance de l’INSEE” (HID 1999), 13 millions de personnes sont concernées par le handicap en France. Ce chiffre atteint 20 millions de personnes si l’on prend en compte les seniors qui sont peu habitués à utiliser les outils numériques.
+    Les sites web
+      Desktop :
+        Navigation clavier.
+        Zoom 200%.
+      Mobile :
+        L’affichage s’adapte, quelle que soit l’orientation de l’appareil.
+        L’application prend en compte les préférences système d’affichage (ex : taille de la police ou des boutons).
+    Les applications mobiles natives
+      Est-ce que l'application peut-être utilisée quelque soit l'orientation de l'appareil ?
+      Est-ce que les préférences de l'utilisateur réglées au niveau du système sont prises en compte (mode sombre, taille du texte, animation réduite, etc) ?
+      Est-ce que les éléments interactifs sont assez gros pour qu'on puisse les toucher sans activer autre chose par accident ?
+  </content>
+  <tips>  
+  </tips>
+</card>
