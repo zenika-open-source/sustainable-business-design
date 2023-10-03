@@ -1,0 +1,22 @@
+<card>personae
+  <title>
+    Personae</title>
+  <category>
+    Rendre accessible à tous</category>
+  <objective>
+    Se concentrer sur les besoins utilisateurs</objective>
+  <intro>
+    Les fiches personae permettent à l’équipe de conception de rester centrée sur les utilisateurs finaux, de déterminer ce que le produit ou service doit faire et quels bénéfices ils vont apporter. </intro>
+  <content>
+    Un persona est un archétype représentant un groupe de personnes dont les comportements, motivations et buts sont proches. C'est un livrable de la recherche utilisateur qui condense les informations qui seront utiles à l'équipe de conception.
+    Il y a une information indispensable à avoir, c'est connaître la configuration matérielle, et l’inclure dans la stratégie de test. En effet, un des piliers de l'éco-conception est la réduction d'impact via le matériel, l'utilisateur devant garder son matériel le plus longtemps possible et consommer le moins de ressources possible.
+    Les informations importantes : 
+      le(s) type(s) d’appareil(s).
+      le type de connexion (quelle utilisabilité avec des connexions bas débit ?).
+      le type de forfait.
+      le nombre d’heure d’utilisation.
+    Les scénarios d’utilisation, les modalités d’interaction, l’architecture d’information doivent être pensés pour permettre aux personae d’atteindre leurs buts dans les meilleures conditions. L'équipe de conception sera amenée à arbitrer sur les choix à faire pour construire un produit adapté aux besoins des utilisateurs tout en allant vers plus de sobriété.
+  </content>
+  <tips> 
+  </tips>
+</card>
