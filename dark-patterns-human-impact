@@ -1,0 +1,23 @@
+<card>dark-patterns-human-impact
+  <title>Dark patterns, l'impact humain
+    </title>
+  <category>
+    Faire converger les pratiques</category>
+  <objective>
+    Ne pas manipuler l'utilisateur</objective>
+  <intro>
+    Il s’agit des pratiques de conception dont l’objectif est de piéger l’utilisateur en s’appuyant sur les biais cognitifs. Les méthodes ne sont pas toujours mises en place de façon maligne, mais il peut être plus simple de les utiliser pour arriver aux objectifs attendus par l’éditeur du service. 
+    Il convient dans la conception d’un service responsable de les éviter consciemment pour limiter un impact négatif sur l'utilisateur et réduire l'impact éthique du produit.</intro>
+  <content>
+    Ces designs sont conçus pour tromper les utilisateurs et les induire en erreur, ce qui les conduit à être confus, se sentir trahis et frustrés. En tant que PO, il est donc essentiel d'éviter ces modèles de conception et de proposer un parcours utilisateur attrayant. 
+    D’un point de vue plus humain, cela peut pousser l’utilisateur à arrêter d’utiliser un service pour aller éventuellement vers une autre option plus sobre, efficace, fluide, etc.
+    Voici quelques recommandations de conception qui doivent être prises au sérieux pour aider à éviter les modèles sombres :
+      Introduisez des normes strictes de pratiques de conception pour les concepteurs.
+      Insuffler de l'empathie dans la conception et favoriser l'intérêt de l'utilisateur.
+      Privilégier l'expérience utilisateur et ne pas se focaliser sur le nombre de visiteurs et d'abonnements.
+      S'inspirer des conceptions UX qui suivent un processus de conception éthique comme le guide des designers éthiques.
+      Menez des recherches approfondies sur les utilisateurs pour connaître leurs attentes.
+  </content>
+  <tips> 
+  </tips>
+</card>
