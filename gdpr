@@ -1,0 +1,22 @@
+<card>gdpr
+  <title>
+    RGPD et droit à l'oubli/title>
+  <category>
+    Faire converger les pratiques</category>
+  <objective>
+    Rendre la gestion des données à leurs propriétaires</objective>
+  <intro>
+    De plus en plus de données sont collectées à travers les services numériques, que l'on s'en rende compte ou non. Lorsque l'on réalise des services responsables, il est nécessaire de limiter les nouvelles traces que l'utilisateur laisse en utilisant le produit pour garantir sa vie privée. </intro>
+  <content>
+    Depuis 2018, le règlement général de protection des données (RGPD) renforce les droits des personnes et introduit une plus grande responsabilité des entreprises sur les conditions de recueil des données personnelles, une vraie convergence avec le numérique responsable. D'ailleurs un des principes est le droit à l'oubli qui prévoit que les données personnelles doivent être sauvegardées pour un temps limité en rapport avec leur finalité
+    Il y a quelques actions et questionnements simples à adresser pour limiter les mauvaises pratiques :
+      A chaque fois que l'on crée de la donnée, il faut être sûr que celle-ci est nécessaire : qui l'utilisera ? dans quel but ? à quelle fréquence ? 
+      Pour les données jugées nécessaires, que fait-on lorsque leur usage est terminée (notamment si c'est pour des utilisateurs d'analyse marketing, une fois les analyses faites, la RGPD dit qu'il faudrait la supprimer).
+      Dans l'ensemble il faut anonymiser les données en dehors du services et limiter (voire refuser) leur commercialisation. 
+      Pour gagner la confiance des utilisateurs, il est également possible de bien détailler l'ensemble des informations conservées et expliquer le besoin derrière.
+      Sur le droit à l'oubli des données, les démarches doivent être simples, voir automatiques pour limiter les demandes par exemple tous les comptes non accédés ou les données non utilisées depuis x mois sont supprimés, un bouton depuis le compte utilisateur permet de supprimer son compte ou ses données, etc.
+  </content>
+  <tips> 
+    S'aider du jeu RGPD de la CNIL : https://design.cnil.fr/resources
+  </tips>
+</card>
