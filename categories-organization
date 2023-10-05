@@ -1,0 +1,20 @@
+<card>
+  <title>
+    Tri par carte</title>
+  <category>
+    Travailler les contenus</category>
+  <objective>
+    Déterminer précisément et efficacement l’organisation et la distribution des pages d’un site internet</objective>
+  <intro>
+    Le tri de cartes (aussi appelé card sorting) est une méthode efficace pour travailler sur l'organisation des contenus et l'arborescence de votre produit. On améliore ainsi l'architecture de l'information pour faciliter la navigation.</intro>
+  <content>
+    La conduite d’entretiens auprès des utilisateurs finaux permet de déterminer précisément quelles sont leurs attentes en termes de contenus. En amont du tri de cartes, il est nécessaire de procéder à un inventaire détaillé des contenus.
+    Présentation des cartes : les cartes sont présentées aux participants « en vrac » (un jeu des cartes par participant). 
+    Validation des cartes (pertinence + libellés) : les participants valident chacune des cartes. Selon les cas, ils ont la possibilité de renommer / supprimer / fusionner les cartes ou bien de créer de nouvelles cartes à l’aide des cartes vierges.
+    Regroupement des cartes : en fonction de leurs points communs, plusieurs groupes de cartes similaires sont créés. Une même carte peut être utilisée au sein de plusieurs groupes.
+    Libellé des groupes : enfin, les participants vont donner un nom aux groupes qu’ils viennent de former. Il ne s’agit en aucun cas du titre définitif de la rubrique mais du dénominateur commun aux cartes regroupés entre elles.
+    Analyse des résultats : elle est ensuite réalisée à la main afin d’identifier les regroupements les plus fréquents et les contenus constituant ces rubriques.
+  </content>
+  <tips> 
+  </tips>
+</card>
