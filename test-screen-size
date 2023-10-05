@@ -1,0 +1,23 @@
+<card>test-screen-size
+  <title>
+    Tester le design, dans toutes les tailles d'écrans identifiés</title>
+  <category>
+    Rendre accessible à tous</category>
+  <objective>
+    Tester et se mettre à la place de l'utilisateur</objective>
+  <intro>
+    En plus de s'assurer d'être proche des besoins utilisateurs, les tests vont donner des informations pertinentes sur l'usage du produit dans des conditions réelles d'utilisation.</intro>
+  <content>
+    Malgré une réflexion poussée pendant la conception, les surprises peuvent être nombreuses pendant la réalisation. La multitude des cas d'usage ne facilite pas cette étape.
+    Les critères qui multiplient les cas d’usage sont nombreux :
+      les personae (profil, usage, objectifs, etc.),
+      la multitude de périphériques (ordinateur, tablette, mobile),
+      les navigateurs (Chrome, Firefox, Safari etc.),
+      le réseau, etc.
+    Les étapes clés sont la préparation du protocole de test (panel, scénario, contexte d'usage, questionnaire) et l'analyse des résultats.
+    Les fiches personae (voir carte correspondante) fournissent de nombreuses infos pour les tests.
+  </content>
+  <tips> 
+    Tester avec un réseau  dégradé est une bonne pratique pour s'assurer que le produit est disponible au plus grand nombre d'utilisateurs avec une couverture réseau inégale.   
+  </tips>
+</card>
