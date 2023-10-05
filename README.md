@@ -1,4 +1,5 @@
 # sustainable-business-design
+
 This non-dev project is a tool box for the teams wanting to design and develop sustainable digital services.
 
 As the digital world is exponentially growing and its environmental impact is now more visible and shared, we thought it was time to address the environmental impact behind our daily work.
@@ -21,3 +22,6 @@ The cards are grouped according to 5 themes:
 * Improving functionality;
 * Working on content; 
 * Converging practices.
+
+
+![with love by zenika](https://img.shields.io/badge/With%20%E2%9D%A4%EF%B8%8F%20by-Zenika-b51432.svg?link=https://oss.zenika.com)
