@@ -1,0 +1,24 @@
+<card>
+  <title>
+    Format des contenus</title>
+  <category>
+    Travailler les contenus</category>
+  <objective>
+    Trouver l'équilibre entre illustration et légèreté</objective>
+  <intro>
+    Après redimensionnement, ajustement de la qualité et compression, une photo peut être 14 fois plus légère tout en conservant une qualité tout à fait suffisante pour un usage web.
+    Laisser les utilisateurs naviguer à leur propre rythme en leur donnant les moyens de contrôle sur les objets multimédia.</intro>
+  <content>
+    Même si son interface a été « éco-conçue », le service numérique peut être alourdi par les contenus présentés. Il vaut donc mieux maîtriser les intrants. 
+    Voici quelques recommandations :
+      Redimensionner, optimiser et compresser les images : taille d'affichage adaptée, images adaptatives, vectorielles, lazy-loading.
+      Bien choisir le format de fichier pour les documents à télécharger.
+      Limiter l’usage de vidéos : attention aux fonds vidéos et à la lecture automatique - remplacer une vidéo par une image clicuable plutôt que d’utiliser un plugin qui intègre la vidéo dans la page - tester l’accessibilité.
+      Limiter les animations : une bonne pratique d’accessibilité et d'expérience utilisateur est d'éviter les gifs animés et l'autoplay.
+      Utiliser les polices Système : les polices standards linéales (sans serif) sont également recommandées pour l’accessibilité.
+      Limitez l’utilisation de widgets et plugins comme les icônes de réseaux sociaux, Google Maps, vidéos incrustées, etc. 
+  </content>
+  <tips> 
+    Des tâches automatiques ou semi-automatiques intégrées au système de gestion de contenu : par exemple réduire automatiquement le poids et la taille des images.
+  </tips>
+</card>
