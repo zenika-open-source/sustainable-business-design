@@ -1,0 +1,21 @@
+<card>
+  <title>
+    Approche content first</title>
+  <category>
+    Travailler les contenus</category>
+  <objective>
+    Permettre une meilleure vision d’ensemble du design avant qu’ils ne deviennent des problèmes réels</objective>
+  <intro>
+    Plutôt que de créer un design et de remplir le contenu, une approche de création de contenu conduit à une conception de l'expérience utilisateur sous forme de wireframes, ce qui permet de bien comprendre ce que vous voulez dire et comment vous voulez le dire.</intro>
+  <content>
+    Donner la priorité au contenu signifie mettre en œuvre un processus de conception en plusieurs phases. Tout d'abord, évaluer et collecter des informations sur le contenu :
+    Définition des règles de la conception et la stratégie de contenu : les types de contenu et leur précision, (textes, photos, graphiques, tableaux, listes…), le ton et le volume. 
+    Réalisation d'un inventaire/audit de contenu (voir aussi la carte : tri par carte). 
+    Travail de pré-vision avec une conversation map, une content map en fonction de vos personae.
+    Si vous concevez une application, vous pouvez créer un user flow qui met en évidence les étapes suivies pour atteindre un objectif souhaité. Les tâches et besoins utilisateurs sont ainsi déterminés et il est possible d'ajouter des métriques éco-responsables dès maintenant.
+    Organisez vos contenus et définissez des modèles de pages. Vous pouvez commencer à créer vos wireframes.
+  </content>
+  <tips> 
+   Ce n’est pas le contenu exact ou définitif qui importe, mais un contenu qui s’en rapproche. Les mots sont essentiels pour aider les utilisateurs à accomplir leurs tâches.
+  </tips>
+</card>
