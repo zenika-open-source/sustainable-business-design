@@ -8,29 +8,40 @@ As the digital world is changing with new technilogy which are challenging the s
 We already have many practices that address some large aspect of sustainable design but as team members we don't always link them to it. This is the main objectif of this tool box.
 So we've created cards that link usual non-technical habits, tools, workshop formats to the subject of sustainability in IT design and development. 
 Each card is organized as follow:
-  Card name
-    Title
-    Category
-    Objective
-    Intro
-    Content
-    Tips
+  _Card name_
+    _Title_
+    _Category_
+    _Objective_
+    _Intro_
+    _Content_
+    _Tips_
 
-The cards are grouped according to 5 themes: 
+**The cards are grouped according to 5 themes:** 
 * Understanding responsible digital technology;
 * Making it accessible to all;
 * Improving functionality;
 * Working on content; 
 * Converging practices.
 
-To go deeper in the rabbit hole, you can check the following documenation mostly in french only (if available in english, it's indicated by [EN]): 
-Training and certification
-* MOOC Numérique Responsable de l'INR [EN]
-* MOOC Inria Numérique responsable (fun-mooc) [EN]
-* GreenIT.fr [EN]
-* Eco-Z pour développeur ou PO/UX chez Zenika [EN] 
+# The next steps for this project
+
+1/ We are working with an other OOS project, [cheatsheets ](https://github.com/zenika-open-source/cheatsheets/tree/main#cheatsheets) in order to generate a nice visual. So we need to test the markdown.
+2/ We welcome all new idea to integrate in the card
+3/ We need to integrate images for illustration
+
+**If you are interested, please check the [CONTRIBUTING.md file](https://github.com/zenika-open-source/sustainable-business-design/blob/main/CONTRIBUTING.md) of the issues**
+
+# Documentation
+
+To go deeper in the rabbit hole, you can check the following documenation mostly in french only (if available in english, it's indicated by _EN_).
+
+**Training and certification**
+* MOOC Numérique Responsable de l'INR _EN_
+* MOOC Inria Numérique responsable (fun-mooc) _EN_
+* GreenIT.fr _EN_
+* Eco-Z pour développeur ou PO/UX chez Zenika _EN_
  
-Leading institution or group in France
+**Leading institution or group in France**
 * ADEME - Agence de la transition écologique 
 * ARCEP - Autorité de Régulation des Communications Electroniques, des Postes et de la distribution de la Presse
 * Halte à l'Obsolescence Programmée
@@ -42,22 +53,22 @@ Leading institution or group in France
 * Designers Ethiques
 * Shift Project
 
-Impacts
-* Etudes de l'impact du numérique de GreenIT.fr, du Shift Project, de l'ARCEP et de France Stratégie. [EN]
+**Impacts**
+* Etudes de l'impact du numérique de GreenIT.fr, du Shift Project, de l'ARCEP et de France Stratégie. _EN_
 * Etudes sur les ressources d'EcoInfo, Gauthier Roussilhe, Guillaume Pitron.
-* Rapports sur les DEEE de l'ONU. [EN]
+* Rapports sur les DEEE de l'ONU. _EN_
 * La librairie de l'ADEME.
 
-Ecoconception
-* Référentiels de pratiques (115 bonnes pratiques, GR491, RGESN, GreenConcept, AFNOR Spec 2201, Designers éthiques, Apple et Google). [EN]
+**Ecoconception**
+* Référentiels de pratiques (115 bonnes pratiques, GR491, RGESN, GreenConcept, AFNOR Spec 2201, Designers éthiques, Apple et Google). _EN_
 * Convergences (Guide de la CNIL, RGAA, Opquat, ADEME).
 * Blogs de Boavizta, Gauthier Roussilhe, Pôle écoconception.
 
-Sustainable websites exemples: 
-* lowww.directory
+**Sustainable websites exemples**
+* lowww.directory _EN_
 * low-tech magazine.
-* Wikipedia, Craigslist, EcoloGeek, Dalkia.
-* gov.uk. (accessible)
+* Wikipedia (_EN_), Craigslist (_EN_), EcoloGeek, Dalkia.
+* gov.uk. (accessible) _EN_
 * 50 exemples de sites internet basse consommation par Cédric Liardet.
 
 ![with love by zenika](https://img.shields.io/badge/With%20%E2%9D%A4%EF%B8%8F%20by-Zenika-b51432.svg?link=https://oss.zenika.com)
